@@ -1,0 +1,10 @@
+Respostas praticando do ebook módulo 1:
+
+1 - Como você planejaria o desenvolvimento desse jogo?
+R: Eu planejava definindo todas as etapas necessárias para que o software pudesse ser entregue o mais rápido possível, sem deixar de lado a qualidade que o software deve apresentar.
+
+2 - É possível criar um jogo em apenas algumas semanas?
+R: Não diria que seja impossível, pois tudo depende da complexidade do jogo. Acredito que um jogo básico, como o jogo da cobrinha ou o Flappy Bird, que não exige mecânicas únicas, pode sim ser entregue em semanas, seguindo a metodologia correta e sem perda de qualidade na entrega.
+
+3 - Que tal arriscar uma criação ou planejar algo assim?
+R: Tenho um projeto de um app simples de download de memes com alguns amigos, mas nunca havia pensado na possibilidade de criar um jogo, apesar de ser um jogador assíduo.
